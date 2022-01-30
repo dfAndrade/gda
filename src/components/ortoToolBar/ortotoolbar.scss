@@ -1,0 +1,18 @@
+.orto-toolbar-container {
+  width: 100%;
+  height: 75px;
+  background-color: #555555;
+}
+
+.canvas-container {
+  flex-grow: 1;
+  display: flex;
+  overflow: hidden
+}
+
+.orto-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
